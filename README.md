@@ -42,18 +42,16 @@ watch the results in the right.
 
 This project requires several libraries:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+- [Numpy-1.19.5](https://numpy.org/) 
+- [h5py-2.10.0](https://www.h5py.org/)
+- [pandas-1.2.3](https://pandas.pydata.org/) 
+- [torch-1.9.0+cu111](https://pytorch.org/get-started/previous-versions/)
+- [opencv-python-4.5.1.48](https://opencv.org/)
+- [pillow-9.0.1](https://pypi.org/project/Pillow/9.0.1/)
+- [Python-3.8.0](https://www.python.org/downloads/release/python-380/)
 
-Additional 내용
+>Please install all the libralies using requirements.txt
+
 
 ## Installation
 
