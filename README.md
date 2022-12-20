@@ -55,24 +55,20 @@ This project requires several libraries:
 
 ## Installation
 
-우리는 requires [Node.js](https://nodejs.org/) v10+ to run.
+1. Install the dependencies and devDependencies and start the server.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogojila1029&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+   ```sh
+   cd dillinger
+   npm i
+   node app
+   ```
 
-Install the dependencies and devDependencies and start the server.
+2. For production environments...
 
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
+   ```sh
+   npm install --production
+   NODE_ENV=production node app
+   ```
 
 ## Run
 
