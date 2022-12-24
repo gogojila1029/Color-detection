@@ -55,15 +55,9 @@ This project requires several libraries:
 
 ## Installation
 
-1. Install the dependencies and devDependencies and start the server.
+1. First, clone the repository
 
-   ```sh
-   cd dillinger
-   npm i
-   node app
-   ```
-
-2. For production environments...
+2. Download ![data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) folder and please it in the coloned
 
    ```sh
    npm install --production
