@@ -57,7 +57,7 @@ This project requires several libraries:
 
 1. First, clone the repository
 
-2. Download ![data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) folder and please it in the coloned
+2. Download [data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) folder and please it in the coloned
 
    ```sh
    npm install --production
