@@ -9,11 +9,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-klee and klee project
-
-- klee is cute
-- some features
-- ✨something klee✨
+This is an AI project to detect object's colors, which is captured by an object detection algorithm called Yolov3.<br>  
+We used KNN(K-Nearest Neighbor) algorithm to extract the most frequent pixels that represent a color and record them on a notepad(training3.txt).
+These pixels on the notepad will be used to train knn algorithm, and this algorithm will predict a specific color of a frame that is captured from a webcam using OpenCV library.
 
 ## Demo
 
@@ -57,7 +55,7 @@ This project requires several libraries:
 
 1. First, clone the repository
 
-2. Download [data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) folder and please it in the coloned
+2. From [data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) link, download two folders
 
    ```sh
    npm install --production
