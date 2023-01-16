@@ -18,19 +18,6 @@ These pixels on the notepad will be used to train knn algorithm, and this algori
 
 ![result2](https://user-images.githubusercontent.com/99879082/212631812-c34e9821-a9d9-4868-b151-fd02971c9a81.PNG)
 
-description on features
-
-> passages on klee things
-> 
-> 
-> 
-> 
-> 
-> 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
 ## Theory
 
 ## Requirements
