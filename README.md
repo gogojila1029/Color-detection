@@ -14,12 +14,9 @@ We used KNN(K-Nearest Neighbor) algorithm to extract the most frequent pixels th
 These pixels on the notepad will be used to train knn algorithm, and this algorithm will predict a specific color of a frame that is captured from a webcam using OpenCV library.
 
 ## Demo
+![result1](https://user-images.githubusercontent.com/99879082/212631803-50a4a45e-44d4-45ba-9a7c-ccc0fe194226.PNG)
 
-- feature 1
-- 2
-- 3
-- 4
-- 5
+![result2](https://user-images.githubusercontent.com/99879082/212631812-c34e9821-a9d9-4868-b151-fd02971c9a81.PNG)
 
 description on features
 
@@ -57,12 +54,18 @@ This project requires several libraries:
 
 2. From [data](https://drive.google.com/drive/folders/1_GnazrVC9MHOFEcqacNN1MxGSvIaqhFM?usp=sharing) link, download two folders
 
-   ```sh
-   npm install --production
-   NODE_ENV=production node app
    ```
+   data
+   cfg
+   ```
+3. Put those two files into the repository
 
 ## Run
+```
+1.For training:
+   - Run "color_histogram_feature_extraction.py"
+   
+```
 
 ## About Us
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogojila1029&show_icons=true&theme=radical)
