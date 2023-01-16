@@ -63,8 +63,10 @@ This project requires several libraries:
 ## Run
 ```
 1.For training:
-   - Run "color_histogram_feature_extraction.py"
+   - Run "color_histogram_feature_extraction.py"\
    
+2.For testing:
+   - Run "cam.py"
 ```
 
 ## About Us
