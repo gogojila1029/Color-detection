@@ -58,7 +58,7 @@ This project requires several libraries:
 
 ## About Us
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogojila1029&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiuces&show_icons=true&theme=radical)
+[//]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiuces&show_icons=true&theme=radical)
 
 ## License
 
